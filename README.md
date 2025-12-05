@@ -1,4 +1,5 @@
 # domain-expansion
+> dont get excited, I am still working on it.
 
 it is what it sound like, this won't define what your domain is (a fully blown coding agent) this is just meant to increase your domain and act as helping agent, but you need to be the one defining what the domain is
 
